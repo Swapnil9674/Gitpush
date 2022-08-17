@@ -3,9 +3,9 @@ client = pymongo.MongoClient("mongodb+srv://mamta:Swapnil@mamta.mfuellw.mongodb.
 db = client.test
 
 d = {
-    "name":"sudhanshu",
-    "email" : "sudhanshu@ineuron.ai",
-    "surname" : "kumar"
+    "name":"Swapnil",
+    "email" : "swapnilrathod72@gmail.com",
+    "surname" : "Rathod"
 }
 db1 = client['mongotest']
 coll = db1['test']
